@@ -8,17 +8,17 @@ if [ "$ANTWORT" == "1" ]
 	then
 		clear
 		#Befehl
-    
-    #
+    		
+    		#
 		exit
 fi
 
 if [ "$ANTWORT" == "2" ] 
 	then
 		clear
-	  #Befehl
-    
-    #
+	  	#Befehl
+    		
+    		#
 		exit
 fi
 
