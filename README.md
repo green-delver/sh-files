@@ -2,9 +2,7 @@
 
 ## Deutsch
 Nur eine Ablage für meine Bash-Skripte, damit ich auf allen Rechnern darauf Zugriff habe.
-
 Keine großartigen Erfindungen, sondern nur Erleichterungen bei der täglichen Nutzung.
-
 Nutzung und Weitergabe für jeden.
 
 ## English
