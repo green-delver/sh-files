@@ -11,8 +11,6 @@ dummy
 dummy
 1. menü.sh  
 dummy
-1. q3-server.sh  
-dummy
 1. rippen.sh  
 dummy
 1. ssd-performance.sh  
